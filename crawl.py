@@ -50,3 +50,4 @@ def loading(blocknum, blocksize, totalsize):
 
 if __name__ == '__main__':
     crawl()
+
